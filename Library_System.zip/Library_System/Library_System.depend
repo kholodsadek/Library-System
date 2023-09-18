@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1683204369 source:c:\users\user\onedrive\documents\learning\cs empire'23\library_system\main.c
+	<stdio.h>
+	<string.h>
+
+1695058463 source:d:\cs empire'23\projects\library_system.zip\library_system\main.c
+	<stdio.h>
+	<string.h>
+
